@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() =>  runApp(MaterialApp(
-  home: ,
+  home: NinjaCard(),
 ));
 
 class NinjaCard extends StatelessWidget {
@@ -15,7 +15,7 @@ class NinjaCard extends StatelessWidget {
         backgroundColor: Colors.grey[850],
         elevation: 0.0,
       ),
-      
+
     );
   }
 }
